@@ -8,6 +8,8 @@ A clone-stamp brush extension for [Aseprite](https://www.aseprite.org/) — sele
 <img src="https://img.shields.io/badge/version-1.0.0-orange" alt="Version 1.0.0">
 </p>
 
+https://github.com/user-attachments/assets/1e630c10-5291-4cc8-8258-739a48feb691
+
 ## 📜 Table of contents
 
 - [Features](#-features)
