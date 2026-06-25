@@ -1,0 +1,29 @@
+{
+  "name": "stamp-brush",
+  "displayName": "Stamp Brush",
+  "description": "Clone-stamp brush with tiled canvas, smoothstep brush mask, max-alpha blending, pan/zoom, and selection masking. Paint from any part of a cel or its tiled copies.",
+  "version": "1.0.0",
+  "author": {
+    "name": "nklbdev"
+  },
+  "publisher": "nklbdev",
+  "license": "MIT",
+  "categories": [
+    "Scripts"
+  ],
+  "contributes": {
+    "scripts": [
+      {
+        "path": "./extension.lua"
+      }
+    ]
+  },
+  "keywords": [
+    "clone-stamp",
+    "stamp-brush",
+    "clone",
+    "brush",
+    "tiling",
+    "selection"
+  ]
+}
